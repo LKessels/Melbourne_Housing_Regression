@@ -4,7 +4,7 @@ name: Test Jupyter Notebook
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   run-notebook:
